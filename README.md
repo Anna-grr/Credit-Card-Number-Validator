@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* Валидацию проходят только карты, имеющие 16 цифр в номере: https://github.com/Anna-grr/Credit-Card-Number-Validator/issues/1#issue-749962906
+* [Валидацию проходят только карты, имеющие 16 цифр в номере](https://github.com/Anna-grr/Credit-Card-Number-Validator/issues/1#issue-749962906)
 
 ## Описание процесса тестирования
 
